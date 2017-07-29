@@ -69,7 +69,7 @@ Consider the root note of G
 | -  | - |
 | -  | D |
 
-The major chords are G, C, and D. The minor chords are Emin, Amin, and Bmin. The diminished chord if F♯dim.
+The major chords are G, C, and D. The minor chords are Emin, Amin, and Bmin. The diminished chord is F♯dim.
 
 The G major scale is G A B C D E F♯.
 
@@ -131,7 +131,7 @@ The pattern for the minor scale starts at a different root note even though it h
 | - | - |
 | - | 7 |
 
-From this, the minor scale formula scale is derived as Root-W-H-W-W-H-W-W.
+From this, the minor scale formula is derived as Root-W-H-W-W-H-W-W.
 
 And here are the chords for the minor scale based on the root note.
 
