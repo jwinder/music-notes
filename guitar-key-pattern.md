@@ -4,15 +4,15 @@ _Using the guitar to find notes & chords in a major or natural minor key._
 
 ## Review of major scale chords
 
-The chords are defined on the major scale.
+Here are the chord types defined for the major scale.
 
 | Root  |     2 |     3 |     4 |        5 |     6 |          7 |
 |-------|-------|-------|-------|----------|-------|------------|
-| major | minor | minor | major | dominant | minor | diminished |
+| major  | minor | minor | major | dominant | minor | diminished |
 
-That is, the root note in a given major scale would be a major chord, the second note would be a minor chord, and so on.
+That is, the root note in a given major scale corresponds to a major chord, the second note corresponds to a minor chord, and so on.
 
-Here are examples in the keys of C and F using only triad chords. Reminder that the major scale from a root note is constructed using the formula Root-W-W-H-W-W-W-H.
+Here are examples in the keys of C and F using only triad chords. Remember that the major scale from a root note is constructed using the formula Root-W-W-H-W-W-W-H.
 
 | C | D  | E  | F | G  | A  | B    |
 |---|----|----|---|----|----|------|
@@ -22,9 +22,9 @@ Here are examples in the keys of C and F using only triad chords. Reminder that 
 |---|----|----|----|---|----|------|
 | F | Gm | Am | B♭ | C | Dm | Edim |
 
-## Finding the major scale chords
+## Finding the major scale chords on the guitar
 
-Here is a major scale pattern on the low E and A strings, given a root note R:
+Here is a general form for a major scale pattern on the low E and A strings, given a root note R.
 
 | E | A |
 |---|---|
@@ -35,7 +35,7 @@ Here is a major scale pattern on the low E and A strings, given a root note R:
 | - | - |
 | - | 5 |
 
-Here are the types of chord associated with each degree:
+Replacing the notes with the type of chord from the major scale, here are the chords corresponding to each note.
 
 | E   | A |
 |-----|---|
@@ -46,19 +46,23 @@ Here are the types of chord associated with each degree:
 | -   | - |
 | -   | M |
 
-That is, given a root note R, the M (major) chords are the notes associated with:
+ - M = major
+ - m = minor
+ - dim = diminished
+
+Observe that the major chords correspond to the notes associated with:
 
  - root note on the E string
  - the note below it on the A string
  - the note 1 whole step above the note on the A string.
 
-The m (minor) chord notes follow the same pattern except starting with the note on the E string 3 half steps below the root note (the relative minor of the root note).
+The minor chord notes follow the same pattern except starting with the note on the E string 3 half steps below the root note (the relative minor of the root note).
 
-The dim (diminished) chord in the key is associated with the note a single half step below the root note on the E string.
+The diminished chord in the key is associated with the note a single half step below the root note on the E string.
 
 ### Major scale examples
 
-Consider the root note of G
+To find the major chords in the key of G, first observe this pattern when starting with a root note of G.
 
 | E  | A |
 |----|---|
@@ -69,11 +73,33 @@ Consider the root note of G
 | -  | - |
 | -  | D |
 
+Overlaying the chord types onto the scale notes:
+
+| E        | A     |
+|----------|-------|
+| E • m    | A • m |
+| -        | -     |
+| F♯ • dim | B • m |
+| G • M    | C • M |
+| -        | -     |
+| -        | D • M |
+
 The major chords are G, C, and D. The minor chords are Emin, Amin, and Bmin. The diminished chord is F♯dim.
 
-The G major scale is G A B C D E F♯.
+Overlaying the scale degrees:
 
-Now, Consider the root note of G♯ (ignoring double-sharps)
+| E      | A     |
+|--------|-------|
+| E • 6  | A • 2 |
+| -      | -     |
+| F♯ • 7 | B • 3 |
+| G • R  | C • 4 |
+| -      | -     |
+| -      | D • 5 |
+
+Ordering by R, 2, ..., 7 yields the G major scale of G A B C D E F♯.
+
+As another example, consider the root note of G♯ (ignoring double-sharps)
 
 | E  | A  |
 |----|----|
