@@ -29,22 +29,22 @@ Here is a major scale pattern on the low E and A strings, given a root note R:
 | E | A |
 |---|---|
 | 6 | 2 |
-|   |   |
+| - | - |
 | 7 | 3 |
 | R | 4 |
-|   |   |
-|   | 5 |
+| - | - |
+| - | 5 |
 
 Here are the types of chord associated with each degree:
 
 | E   | A |
 |-----|---|
 | m   | m |
-|     |   |
+| -   | - |
 | dim | m |
 | M   | M |
-|     |   |
-|     | M |
+| -   | - |
+| -   | M |
 
 That is, given a root note R, the M (major) chords are the notes associated with:
 
@@ -63,11 +63,11 @@ Consider the root note of G
 | E  | A |
 |----|---|
 | E  | A |
-|    |   |
+| -  | - |
 | F♯ | B |
 | G  | C |
-|    |   |
-|    | D |
+| -  | - |
+| -  | D |
 
 The major chords are G, C, and D. The minor chords are Emin, Amin, and Bmin. The diminished chord if F♯dim.
 
@@ -78,11 +78,11 @@ Now, Consider the root note of G♯ (ignoring double-sharps)
 | E  | A  |
 |----|----|
 | F  | B♭ |
-|    |    |
+| -  | -  |
 | G  | C  |
 | G♯ | C♯ |
-|    |    |
-|    | D♯ |
+| -  | -  |
+| -  | D♯ |
 
 The major chords are G♯, C♯, and D♯. The minor chords are Fmin, B♭min, and Cmin. The diminished chord is Gdim.
 
@@ -97,11 +97,11 @@ Recall the major scale for G (G A B C D E F♯):
 | E  | A |
 |----|---|
 | E  | A |
-|    |   |
+| -  | - |
 | F♯ | B |
 | G  | C |
-|    |   |
-|    | D |
+| -  | - |
+| -  | D |
 
 G is the relative major of E / E is the relative minor of G. The notes in the E minor scale are the same as the G major scale except the root note starts with E instead of G: E F♯ G A B C D.
 
@@ -110,11 +110,11 @@ Recall the chords associated with each note:
 | E   | A |
 |-----|---|
 | m   | m |
-|     |   |
+| -   | - |
 | dim | m |
 | M   | M |
-|     |   |
-|     | M |
+| -   | - |
+| -   | M |
 
 The chords for the E minor scale are the same as the chords for the G major scale. The major chords are G, C, and D. The minor chords are Emin, Amin, and Bmin. The diminished chord is F♯dim.
 
@@ -125,11 +125,11 @@ The pattern for the minor scale starts at a different root note even though it h
 | E | A |
 |---|---|
 | R | 4 |
-|   |   |
+| - | - |
 | 2 | 5 |
 | 3 | 6 |
-|   |   |
-|   | 7 |
+| - | - |
+| - | 7 |
 
 From this, the minor scale formula scale is derived as Root-W-H-W-W-H-W-W.
 
@@ -149,11 +149,11 @@ And here are the chords for the minor scale based on the root note.
 | E      | A    |
 |--------|------|
 | min7   | min7 |
-|        |      |
+| -      | -    |
 | min7♭5 | min7 |
 | maj7   | maj7 |
-|        |      |
-|        | 7    |
+| -      | -    |
+| -      | 7    |
 
 Here is the major scale pattern.
 
