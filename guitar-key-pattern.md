@@ -185,7 +185,7 @@ Here is the major scale pattern.
 
 | Root |    2 |    3 |    4 | 5 |    6 |      7 |
 |------|------|------|------|---|------|--------|
-| maj7 | maj7 | min7 | min7 | 7 | min7 | min7♭5 |
+| maj7 | min7 | min7 | maj7 | 7 | min7 | min7♭5 |
 
 Here is the natural minor scale pattern.
 
