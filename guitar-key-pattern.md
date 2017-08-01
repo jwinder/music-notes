@@ -54,7 +54,7 @@ Observe that the major chords correspond to the notes associated with:
 
  - root note on the E string
  - the note below it on the A string
- - the note 1 whole step above the note on the A string.
+ - the note 1 whole step above the note on the A string
 
 The minor chord notes follow the same pattern except starting with the note on the E string 3 half steps below the root note (the relative minor of the root note).
 
@@ -99,7 +99,7 @@ Overlaying the scale degrees:
 
 Ordering by R, 2, ..., 7 yields the G major scale of G A B C D E F♯.
 
-As another example, consider the root note of G♯ (ignoring double-sharps)
+As another example, consider the root note of G♯.
 
 | E  | A  |
 |----|----|
@@ -112,7 +112,7 @@ As another example, consider the root note of G♯ (ignoring double-sharps)
 
 The major chords are G♯, C♯, and D♯. The minor chords are Fmin, B♭min, and Cmin. The diminished chord is Gdim.
 
-The G♯ major scale is: G♯ B♭ C C♯ D♯ F G.
+The G♯ major scale is: G♯ B♭ C C♯ D♯ F G. To make this prettier: G♯ A♯ B♯ C♯ D♯ E♯ F𝄪.
 
 ## Natural minor scale chords
 
@@ -167,10 +167,10 @@ And here are the chords for the minor scale based on the root note.
 
 ## Adding the 7th
 
-- Each major chord maps to a major 7th chord.
-- The dominant chord maps to a 7th chord (dominant 7th).
-- The minor chords map to minor 7th chords.
-- The diminished chord maps to a minor 7 flat 5 chord.
+- Each major chord maps to a major 7th chord
+- The dominant chord maps to a 7th chord (dominant 7th)
+- The minor chords map to minor 7th chords
+- The diminished chord maps to a minor 7 flat 5 chord
 
 | E      | A    |
 |--------|------|
