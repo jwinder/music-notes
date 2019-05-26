@@ -28,7 +28,7 @@
 
 ## Stave
 
-![Stave C's](stave-c.png)
+![Stave C's](img/stave-c.png)
 
 ## Frequencies
 
