@@ -99,9 +99,9 @@ Example: Fmin or Fm. A minor chord consists of a flat 3, i.e. R-♭3-5 notes in 
 
 ### E Shape Minor 6 Chord
 
-Example: Fmin6 or Fm6. Adds the flat 6, i.e. R-♭3-5-♭6 notes in the scale.
+Example: Fmin6 or Fm6. Adds the flat 6, i.e. R-♭3-5-6 notes in the scale.
 
-The flat 6 is one fret down from the root, so this example uses F sharp.
+The 6 is one fret down from the root, so this example uses F sharp.
 
 ![](http://chordgenerator.net/F%E2%99%AFmin6.png?p=2x122x&f=2-134-&s=2)
 
